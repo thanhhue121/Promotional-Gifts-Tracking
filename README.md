@@ -1,4 +1,4 @@
-# 📊 TRACKING PROMOTIONAL GIFTS AND REVENUE Tracking Promotional Gifts and Revenue Impact
+# 📊 TRACKING PROMOTIONAL GIFTS AND REVENUE IMPACT
 
 ## 📌 Overview
 This code tracks **promotional gifts** in terms of **cost, revenue uplift, and gift count**.  
